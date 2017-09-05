@@ -1,0 +1,30 @@
+1. To prepare myself well enough in advance so I can do academic research in Data Visualization.
+
+2. Web technologies, efficient ways/tools to visualize representative data.
+
+3. Java, C#, SQL, Python, Scala, Swift.
+
+4. Java, SQL.
+
+5. Hadoop HDFS topology to represent data movement.
+
+6. I work in Big data so have handled debug level logs of benchmarks such as K Means with 66 Hepta Bytes of data. Wrote a caching simulator to work the datasets out.
+
+7. The voting pattern by fivethirtyeither. It is self explanatory and very interactive.
+
+8. Indian railway live map. Not at all useful.
+
+9. 80.
+
+10. 90.
+
+11. Yes.
+
+12. Worked with Git for several projects. 8 on a scale of 10.
+
+13. Worked with Github for several projects. 8 on a scale of 10.
+
+14. I took a class with Mihai (CSC 583), we learned about text classification. After applying and getting the automated resume rejects, I wrote my own application tracking system which computes the similarity between the resume and the job posting using Stanford NLP and Lucene.
+
+
+
